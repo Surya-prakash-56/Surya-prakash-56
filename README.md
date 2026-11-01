@@ -1,16 +1,43 @@
- # Hi, I'm Surya Prakash!
-I'm a passionate developer based in Hyderabad, currently in my third year of pursuing a B.Tech degree. My focus is on building scalable and impactful solutions through technology.
+<h1 align="center">Hi 👋, I'm Surya Prakash</h1>
+<h3 align="center">A passionate 3rd-year B.Tech student & developer from Hyderabad, building scalable tech solutions.</h3>
 
-What I'm Working On & Tech Stack
+<br>
 
-I love exploring different facets of software development and am actively working on expanding my expertise:
 
- * Full-Stack Development: Experienced with the MERN stack (MongoDB, Express.js, React, Node.js) to craft seamless web applications.
- * Mobile Development: Currently developing cross-platform applications using Flutter.
- * Data Analytics: Passionate about data visualization, storytelling, and extracting actionable insights from complex datasets.
- * DevOps & Security: Enthusiastic about automating workflows and designing secure pipelines within GitHub to optimize deployment strategies.
- * Languages: Proficient in Python for scripting, data analysis, and backend logic.
+---
 
-Beyond Coding
-When I'm not in front of a screen, you'll find me hitting the gym with a dedicated strength training routine, or streaming and recording gameplay on my channel, Nitrexzo.
-Feel free to connect, collaborate, or just talk tech!
+### 🚀 About Me
+* 🔭 Currently pursuing my **B.Tech (3rd Year)** in Hyderabad.
+* 💻 Passionate about writing clean code, full-stack development, and exploring data.
+* 🎮 Creator and streamer at **Nitrexzo** (gaming/content).
+* 🏋️‍♂️ Fitness enthusiast with a dedicated gym & strength training routine.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,flutter,html,css,git,github,vscode" />
+</p>
+
+* **Languages:** Python, JavaScript
+* **Full-Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Mobile Apps:** Flutter
+* **Data & Tools:** Data Analytics, Git, GitHub Automation, VS Code
+
+---
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <!-- LinkedIn (మీ లింక్ లేదా ప్రొఫైల్ ఇక్కడ యాడ్ చేసుకోవచ్చు) -->
+  <a href= target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email (మీ మెయిల్ ఐడీ ఇక్కడ ఇవ్వొచ్చు) -->
+  <a href="">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
